@@ -2,9 +2,9 @@
 
 Tasks completed for the Backend Battle challenge, part of the technical course at Senac RS, a challenge proposed by Professor Iuri Santos. Our team, *Os Pacotões*, emerged victorious in the Backend Battle, finishing 35 points ahead of the other groups.
 
-# Team: Os Pacotões
+# Team: Os Pacotões 🎓
 
-*Participants:* 🎓
+*Participants:* 
 
 - **Mentor**: [Iuri Santos](https://github.com/iurisaints)
 
